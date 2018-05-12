@@ -1,0 +1,28 @@
+_repo: Forward-Children-_44717
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44717-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bartlett, Paul Alexander
+    birthdate: 1909
+    deathdate: 1990
+    gutenberg_agent_id: '40002'
+    url: http://www.gutenberg.org/2009/agents/40002
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2014-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44717'
+  lccn: '2012663456'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1939-1945 -- Fiction'
+title: Forward, Children!
+url: http://www.gutenberg.org/ebooks/44717
