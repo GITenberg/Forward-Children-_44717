@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40002'
     url: http://www.gutenberg.org/2009/agents/40002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44717#Forward-Children-
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2014-01-19'
 gutenberg_type: Text
